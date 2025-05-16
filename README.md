@@ -33,7 +33,7 @@ Below you can follow the picture for installing
 ## Screenshot
 Edited Attohwa Chasm to show a shortcut to Boneyard Gully
 
-![](https:)
+![](https://github.com/Mr-Sithel/XI-Minimaps/blob/main/1024/maps/07_0.gif?raw=true)
 
 #### Credit
 Thanks goes out to the Remapster people who created these. All I did was rename them to work with the minimap plugin.
