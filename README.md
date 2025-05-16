@@ -26,8 +26,9 @@ Below you can follow the picture for installing
 
 ### Private Sever Installation Location
 - If the folders minimap or maps is not there you will have to create one
-| :---: | :--: |
-| Location | ...\HorizonXI-Launcher\HorizonXI\Game\plugins\minimap\maps |
+
+- Location 
+<ins>...\HorizonXI-Launcher\HorizonXI\Game\plugins\minimap\maps</ins>
 
 ## Screenshot
 Edited Attohwa Chasm to show a shortcut to Boneyard Gully
