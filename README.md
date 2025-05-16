@@ -1,7 +1,7 @@
 # XI-Minimaps
 These are HD maps made by: 
-- [FFXI Remapster Project](https://remapster.com/)
-I then renamed them to work with the Ashita plugin called:
+- [FFXI Remapster Project](https://remapster.com/)<br/>
+I then renamed them to work with the Ashita plugin called:<br/>
 - [Minimap](https://github.com/AshitaXI/Ashita-v4beta/tree/main/plugins)
 
 ## Description
@@ -27,7 +27,7 @@ Below you can follow the picture for installing
 ### Private Sever Installation Location
 - If the folders minimap or maps is not there you will have to create one
 
-- Location 
+- Location<br/>
 <ins>...\HorizonXI-Launcher\HorizonXI\Game\plugins\minimap\maps</ins>
 
 ## Screenshot
