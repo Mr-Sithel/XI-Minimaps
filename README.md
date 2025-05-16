@@ -17,6 +17,7 @@ There are 2 resolutions that can be used, either:
 
 ## Download
 Download the zip file to right under <ins>Releases</ins> for the correct resolution
+[Download the zip file to right under](https://github.com/Mr-Sithel/XI-Minimaps/releases "Releases")for the correct resolution
 
 ## Install Guide 
 Below you can follow the picture for installing
