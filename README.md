@@ -16,7 +16,7 @@ There are 2 resolutions that can be used, either:
 - 2048
 
 ## Download
-Download the zip file to right for the correct resolution
+Download the zip file to right under <ins>Releases</ins> for the correct resolution
 
 ## Install Guide 
 Below you can follow the picture for installing
