@@ -21,7 +21,7 @@ Download the zip file to right for the correct resolution
 ## Install Guide
 Below you can follow the picture for installing
 
-![](https:)
+![](https://github.com/Mr-Sithel/XI-Minimaps/blob/main/mimimap%20guide.png?raw=true)
 
 
 ### Private Sever Installation Location
