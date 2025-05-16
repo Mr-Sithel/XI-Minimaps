@@ -18,14 +18,15 @@ There are 2 resolutions that can be used, either:
 ## Download
 Download the zip file to right for the correct resolution
 
-## Install Guide
+## Install Guide 
 Below you can follow the picture for installing
 
 ![](https://github.com/Mr-Sithel/XI-Minimaps/blob/main/mimimap%20guide.png?raw=true)
 
 
 ### Private Sever Installation Location
-- If the folders minimap or maps is not there you will have to create one
+- If the folders minimap or maps is not there you will have to create one<br/>
+- Extract either 1024 or 2048 resolution to the location below<br/>
 
 - Location<br/>
 <ins>...\HorizonXI-Launcher\HorizonXI\Game\plugins\minimap\maps</ins>
