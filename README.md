@@ -15,6 +15,10 @@ There are 2 resolutions that can be used, either:
 - 1024
 - 2048
 
+## Added
+Added a seperate folder of HD Sacrarium maps to be used by maze day change
+Look at the Readme file on how to use
+
 ## Download
 Download the zip file to right under [Releases](https://github.com/Mr-Sithel/XI-Minimaps/releases) for the correct resolution
 
